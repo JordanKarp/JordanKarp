@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-717744?style=flat&logo=Google-Chrome&logoColor=black"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Jordan%20Karp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jordanmatthew.karp@gmail.com"><img src="https://img.shields.io/badge/-jordanmatthew.karp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
