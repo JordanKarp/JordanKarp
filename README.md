@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-717744?style=flat&logo=Google-Chrome&logoColor=black"/></a>
+<a href="https://www.JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-717744?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Jordan%20Karp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jordanmatthew.karp@gmail.com"><img src="https://img.shields.io/badge/-jordanmatthew.karp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
