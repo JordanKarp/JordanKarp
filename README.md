@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 ## 👋 &nbsp;Hey there! I'm Jordan
 
 ### 👨🏻‍💻 &nbsp;About Me
-😄 &nbsp;Full time problem solver - formerly in sales, now solving problems using full stack developer tools.
-🔭 &nbsp;I'm currently working on a Survivor Party Planner website using React, and a multiplayer browswer space game.
+😄 &nbsp;Full time problem solver - formerly in sales, now solving problems using full stack developer tools.\
+🔭 &nbsp;I'm currently working on a Survivor Party Planner website using React, and a multiplayer browswer space game.\
 🌱 &nbsp;I'm on track for learning more Full Stack Development, Artificial Intelligence, and Systems Design.\
 ✍️ &nbsp;In my free time, I enjoy hiking, cooking and game development.\
 ✉️ &nbsp;You can shoot me an email at JordanMatthew.Karp@gmail.com!\
-📄 &nbsp;Please have a look at my [Résumé](https://www.JordanKarp.github.io/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.JordanKarp.github.io/resume.html) for more details about me. I'm open to feedback and suggestions!\
 
 
 ### 🛠 &nbsp;Tech Stack
