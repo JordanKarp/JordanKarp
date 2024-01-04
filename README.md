@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ## 👋 &nbsp;Hey there! I'm Jordan
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+😄 &nbsp;Full time problem solver - formerly in sales, now solving problems using full stack developer tools.
+🔭 &nbsp;I'm currently working on a Survivor Party Planner website using React, and a multiplayer browswer space game.
 🌱 &nbsp;I'm on track for learning more Full Stack Development, Artificial Intelligence, and Systems Design.\
 ✍️ &nbsp;In my free time, I enjoy hiking, cooking and game development.\
 ✉️ &nbsp;You can shoot me an email at JordanMatthew.Karp@gmail.com!\
@@ -31,7 +32,9 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=4169E1)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-717744?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Jordan%20Karp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://JordanKarp.github.io"><img src="https://img.shields.io/badge/-JordanKarp.github.io-717744?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/JordanKarp"><img src="https://img.shields.io/badge/-Jordan%20Karp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jordanmatthew.karp@gmail.com"><img src="https://img.shields.io/badge/-jordanmatthew.karp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
