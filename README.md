@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 😄 &nbsp;Full time problem solver - formerly in sales, now solving problems as a full stack developer.
+- ✓ &nbsp;Check out my featured projects:  [Diagramless Grid Solver](https://github.com/JordanKarp/diagramless-solver-web-app)  or the  [Family Recipes Database](https://github.com/JordanKarp/karp_recipes)
 - 🔭 &nbsp;I'm currently working on a Survivor-Party Planner app using React, and a multiplayer browser space game.
 - 🌱 &nbsp;I'm on track for learning more Full Stack Development, Artificial Intelligence, and Systems Design.
 - ✍️ &nbsp;In my free time, I enjoy hiking, cooking and game development.
